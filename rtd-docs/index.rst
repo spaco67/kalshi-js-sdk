@@ -100,33 +100,21 @@ API Reference
 
 .. toctree::
    :maxdepth: 2
-   :caption: API Documentation
+   :caption: Documentation
 
-   getting-started
-   authentication
-   markets
-   portfolio
-   trading
-   error-handling
-   examples
+   self
 
 JavaScript API
 ~~~~~~~~~~~~~~
 
-.. js:automodule:: ../src/index
-   :members:
+For detailed JavaScript API documentation, see the `TypeDoc documentation <https://spaco67.github.io/kalshi-js-sdk/>`_.
 
-.. js:autoclass:: KalshiClient
-   :members:
+The SDK includes the following main classes:
 
-.. js:autoclass:: MarketService
-   :members:
-
-.. js:autoclass:: PortfolioService
-   :members:
-
-.. js:autoclass:: TradeService
-   :members:
+- **KalshiClient**: Main client class for interacting with the Kalshi API
+- **MarketService**: Service for market data and operations
+- **PortfolioService**: Service for portfolio and balance management
+- **TradeService**: Service for trading operations and order management
 
 Development
 -----------

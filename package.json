@@ -44,15 +44,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timdake4/kalshi-js-sdk.git"
+    "url": "https://github.com/spaco67/kalshi-js-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/timdake4/kalshi-js-sdk/issues"
+    "url": "https://github.com/spaco67/kalshi-js-sdk/issues"
   },
-  "homepage": "https://github.com/timdake4/kalshi-js-sdk#readme",
+  "homepage": "https://github.com/spaco67/kalshi-js-sdk#readme",
   "dependencies": {
     "axios": "^1.6.0",
-    "kalshi-js-sdk": "^1.0.0",
     "tslib": "^2.8.1",
     "ws": "^8.14.0"
   },
