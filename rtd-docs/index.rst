@@ -147,7 +147,7 @@ License
 This project is licensed under the MIT License - see the `LICENSE <https://github.com/spaco67/kalshi-js-sdk/blob/main/LICENSE>`_ file for details.
 
 **Author**: Timothy John Dake (timdake4@gmail.com)  
-**Version**: 1.0.0
+**Version**: 1.0.1
 
 .. note::
    This SDK is not officially affiliated with Kalshi. Use at your own risk. Always test thoroughly in the demo environment before using in production.

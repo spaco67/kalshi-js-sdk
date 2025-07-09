@@ -256,8 +256,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **Documentation**: [Full API Documentation](https://github.com/timdake4/kalshi-js-sdk/tree/main/docs) (Generated with TypeDoc)
-- **Issues**: [GitHub Issues](https://github.com/timdake4/kalshi-js-sdk/issues)
+- **Documentation**: [Full API Documentation](https://spaco67.github.io/kalshi-js-sdk/) (TypeDoc)
+- **Issues**: [GitHub Issues](https://github.com/spaco67/kalshi-js-sdk/issues)
 - **Kalshi API Docs**: [Official API Documentation](https://trading-api.readme.io/)
 
 ## Disclaimer
@@ -267,5 +267,5 @@ This SDK is not officially affiliated with Kalshi. Use at your own risk. Always 
 ---
 
 **Author**: Timothy John Dake (timdake4@gmail.com)  
-**Version**: 1.0.0
+**Version**: 1.0.1
 

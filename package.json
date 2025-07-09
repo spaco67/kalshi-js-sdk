@@ -1,6 +1,6 @@
 {
   "name": "kalshi-js-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A production-grade, beginner-friendly JavaScript SDK for the Kalshi trading platform",
   "main": "dist/index.js",
