@@ -7,7 +7,7 @@ build:
     nodejs: "18"
 
 sphinx:
-  configuration: docs/conf.py
+  configuration: rtd-docs/conf.py
 
 formats:
   - pdf
@@ -15,7 +15,7 @@ formats:
 
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: rtd-docs/requirements.txt
 
 build:
   jobs:
