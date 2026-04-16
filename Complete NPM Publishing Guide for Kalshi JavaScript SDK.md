@@ -30,8 +30,8 @@ npm run build
 npm login
 ```
 Enter your credentials:
-- Username: `timdake4`
-- Password: `Alphazulufoxtrot2016.`
+- Username: `username`
+- Password: `yourpassword`
 - Email: `timdake4@gmail.com`
 
 ### 6. Verify Login
